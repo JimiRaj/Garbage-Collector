@@ -1,0 +1,7 @@
+---Current Status---
+Study overall working of a garbage collector
+Study the features of Garbge Collector
+Learn different GC algorithms
+Implement the Mark and Sweep Garbage Collection in C
+---Future---
+Implement Concurrent Garbage Collector in C
